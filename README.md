@@ -13,7 +13,7 @@ I improved:
 ---------------
 *** UPDATE: I don't use NixOS anymore. I switched to Arch and this repository is just a dead files of my previous configuration.
 *** BUT!
-**** You still can improve it with pull requests, i will be checking it and merging it into the 'community' branch.
+You still can improve it with pull requests, i will be checking it and merging it into the 'community' branch.
 
 ---------------
 Me on Telegram: t.me/gnulinuh
