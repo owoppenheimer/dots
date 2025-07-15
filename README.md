@@ -1,4 +1,4 @@
-## My Nixos configuration (Heavily inspired by [Ampersand](https://github.com/Andrey0189)
+## My Nixos configuration (Heavily inspired by [Ampersand](https://github.com/Andrey0189))
 ---------------
 It uses [Niri](https://github.com/YaLTeR/niri) instead of Hyprland.
 All configurations files (exclude waybar.nix, wofi.nix) are written by me.
